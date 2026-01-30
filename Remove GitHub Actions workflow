@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Workbook | Assignment Help</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Workbook</h1>
+    <p>Assignment • Projects • Web Work</p>
+  </header>
+
+  <section class="card">
+    <h2>What We Do</h2>
+    <ul>
+      <li>Assignment Help</li>
+      <li>Practical Files</li>
+      <li>Project Work</li>
+      <li>HTML / Basic Web Design</li>
+    </ul>
+  </section>
+
+  <section class="card">
+    <h2>How It Works</h2>
+    <ol>
+      <li>Send your task screenshot</li>
+      <li>We complete the work</li>
+      <li>Delivery after confirmation</li>
+    </ol>
+  </section>
+
+  <section class="card">
+    <h2>Contact</h2>
+    <p>Reach me via GitHub profile social links.</p>
+  </section>
+
+  <footer>
+    © 2026 Workbook
+  </footer>
+
+</body>
+</html>body {
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: #e5e7eb;
+  margin: 0;
+}
+
+header {
+  background: #020617;
+  padding: 30px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+header p {
+  color: #94a3b8;
+}
+
+.card 
+  background: #020617;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h2 {
+  color: #38bdf8;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  color: #64748b;
+}
